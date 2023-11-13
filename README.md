@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="" />
+<img align="center" style="" width=100% height=10% src="https://github.com/SuaveGreen/SuaveGreen/blob/main/PedroGIT.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center" >Atualmente estudo o curso Full Stack Python na EBAC.</p>&nbsp;
