@@ -4,8 +4,8 @@
 <p align="center" >Atualmente estudo o curso Full Stack Python na EBAC.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SuaveGreen&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-alpha-two-87.vercel.app/api/top-langs/?username=SuaveGreen&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SuaveGreen&theme=dracula&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-alpha-two-87.vercel.app/api/top-langs/?username=SuaveGreen&show_icons=true&theme=dracula&layout=compact" />
 
  <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuaveGreen)](https://github.com/SuaveGreen/github-readme-stats)-->
 </div>
