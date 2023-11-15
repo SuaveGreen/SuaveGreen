@@ -1,5 +1,4 @@
-<!--<img align="center" style="margin-left: 100px;" width=50% src="https://github.com/SuaveGreen/SuaveGreen/blob/main/Olá!%20Eu%20sou%20o.gif" />
-&nbsp;&nbsp;&nbsp; -->
+
 
 <p align="center" >Atualmente estudo o curso Full Stack Python na EBAC.</p>&nbsp;
 
