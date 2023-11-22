@@ -16,7 +16,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuaveGreen&layout=compact&hide_border=true&title_color=C6E5B1&text_color=C6E5B1&bg_color=0d1117" />
 </div>
  
-## My Skills
+# My Skills
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
             
@@ -39,16 +39,12 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>&nbsp;
-<div align="center">
 
-### Contacts:
+## Contacts:
 
 <div align="left"> 
 <a href = "mailto:cmp.1a.pedro.kaetano2003@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-henrique-canuto-caetano-46a2991a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
-<br><p align="left"><b>Visitors Count</b></p>  
-<p align="left"><img align="center" src="https://profile-counter.glitch.me/{SuaveGreen}/count.svg" /></p> 
-<br>
-</div>
+
