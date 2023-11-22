@@ -1,22 +1,32 @@
-<img align="center" style="" width=100% src="https://github.com/SuaveGreen/SuaveGreen/blob/main/hero_Main.png" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C6E5B1&height=120&section=header"/>
 
-<p align="center" >Atualmente estudo o curso Full Stack Python na EBAC.</p>&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C6E5B1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Caetano;I'm+20+years+old;I'm+from+Brazil;I'm+a+programming+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SuaveGreen&theme=dark&mode=weekly&" />
-<img width=40% align="center" src="https://github-readme-stats-alpha-two-87.vercel.app/api/top-langs/?username=SuaveGreen&show_icons=true&theme=dark&layout=compact&" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuaveGreen&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=C6E5B1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuaveGreen)](https://github.com/SuaveGreen/github-readme-stats)-->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SuaveGreen&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SuaveGreen&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuaveGreen&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+
+<div align="center"> 
+<a href = "mailto:cmp.1a.pedro.kaetano2003@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-canuto-caetano-46a2991a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
  
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
-#### Atualmente estudo:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+            
+#### Currently studying:
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html"/>&nbsp;
@@ -27,9 +37,7 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp"/>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" title="Grunt"/>
 
-
-            
-#### O que ainda vou aprender:
+#### What will I still learn:
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJs"/>&nbsp;
@@ -37,22 +45,9 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
-#### Ferramentas que utilizo:
-
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href = "mailto:contato.SuaveGreen@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-canuto-caetano-46a2991a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
-  
-  
+<div align="center">
+ 
+<br><p align="left"><b>Visitors Count</b></p>  
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{SuaveGreen}/count.svg" /></p> 
+<br>
+</div>
