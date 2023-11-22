@@ -14,9 +14,9 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SuaveGreen&show_icons=true&count_private=true&hide_border=true&title_color=C6E5B1&icon_color=C6E5B1&text_color=C6E5B1&bg_color=0d1117" alt="Pedro Caetano github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuaveGreen&layout=compact&hide_border=true&title_color=C6E5B1&text_color=C6E5B1&bg_color=0d1117" />
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SuaveGreen&hide_longest_streak=true&mode=weekly&hide_border=true&background=0d1117&stroke=C6E5B1&ring=abe386&fire=7aebb4&currStreakNum=7aebb4&currStreakLabel=7aebb4&sideNums=7aebb4&excludeDaysLabel=C6E5B1&dates=C6E5B1&sideLabels=7aebb4&"/>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SuaveGreen&hide_longest_streak=true&mode=weekly&hide_border=true&background=0d1117&stroke=C6E5B1&ring=abe386&fire=7aebb4&currStreakNum=C6E5B1&currStreakLabel=C6E5B1&sideNums=C6E5B1&excludeDaysLabel=C6E5B1&dates=C6E5B1&sideLabels=C6E5B1&date_format=j%20M%5B%20Y%5D"/>
 </div>
- 
+
 # My Skills
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/pedro-henrique-canuto-caetano-46a2991a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
  
-<!--br><p align="left"><b>Visitors Count</b></p>  
+<br><p align="left"><b>Visitors Count</b></p>  
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/{SuaveGreen}/count.svg" /></p> 
 <br>
-</div>-->
+</div>
