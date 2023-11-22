@@ -5,9 +5,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuaveGreen&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=C6E5B1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SuaveGreen&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 
 
