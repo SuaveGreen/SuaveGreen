@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/pedro-henrique-canuto-caetano-46a2991a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
  
-<br><p align="left"><b>Visitors Count</b></p>  
+<!-- <br><p align="left"><b>Visitors Count</b></p>  
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/{SuaveGreen}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
