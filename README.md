@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C6E5B1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pedro+Caetano;I'm+20+years+old;I'm+from+Brazil;I'm+a+programming+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuaveGreen&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=C6E5B1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuaveGreen&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuaveGreen&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SuaveGreen&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 98e3bf
 </p> -->
 
 
@@ -14,7 +14,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SuaveGreen&show_icons=true&count_private=true&hide_border=true&title_color=C6E5B1&icon_color=C6E5B1&text_color=C6E5B1&bg_color=0d1117" alt="Pedro Caetano github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuaveGreen&layout=compact&hide_border=true&title_color=C6E5B1&text_color=C6E5B1&bg_color=0d1117" />
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SuaveGreen&hide_longest_streak=true&mode=weekly&hide_border=true&background=0d1117&stroke=C6E5B1&ring=C6E5B1&fire=15ed85&currStreakNum=C6E5B1&currStreakLabel=C6E5B1&sideNums=C6E5B1&excludeDaysLabel=C6E5B1&dates=C6E5B1&sideLabels=C6E5B1&"/>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SuaveGreen&hide_longest_streak=true&mode=weekly&hide_border=true&background=0d1117&stroke=C6E5B1&ring=abe386&fire=7aebb4&currStreakNum=7aebb4&currStreakLabel=7aebb4&sideNums=7aebb4&excludeDaysLabel=C6E5B1&dates=C6E5B1&sideLabels=7aebb4&"/>
 </div>
  
 # My Skills
