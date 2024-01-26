@@ -31,12 +31,12 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass"/>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" title="Gulp"/>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" title="Grunt"/>
-
-#### What will I still learn:
-
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJs"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>&nbsp;
+
+#### What will I still learn:
+
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>&nbsp;
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>&nbsp;
