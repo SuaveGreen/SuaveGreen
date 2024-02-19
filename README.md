@@ -49,5 +49,5 @@
 </div>
  
 <p align="left"><b>Visitors Count</b></p>  
-<p align="left"><img align="center" src="https://profile-counter.glitc.me/{SuaveGreen}/count.svg" /></p> 
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{SuaveGreen}/count.svg" /></p> 
 <br>
