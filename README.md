@@ -51,9 +51,11 @@
 
 <br />
 <br />
- 
+
+ <!--
 <p align="left"><b>Visitors Count</b></p>  
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/{SuaveGreen}/count.svg" /></p> 
 <br>
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C6E5B1&height=120&section=footer"/>
